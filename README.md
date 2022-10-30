@@ -1,9 +1,9 @@
-### Olá!! Eu sou o Igor, Seja Bem-vindo!! 👋
+### Olá!! Sou o Igor, Seja Bem-vindo!! 👋
 
 
 
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas na UFPR
-- 🚀 Estou em constante Evolução
+- 🚀 Vivendo e aprendendo
 - 🗺️ Curitiba/PR
 
 ##
